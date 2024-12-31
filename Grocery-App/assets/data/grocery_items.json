@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "apple",
+    "price": 100.0,
+    "image": "assets/images/apple.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Orange",
+    "price": 120.0,
+    "image": "assets/images/Carrot 1.png"
+  },
+  {
+    "id": 3,
+    "name": "Cheese",
+    "price": 340.0,
+    "image": "assets/images/cheese 1.png"
+  },
+  {
+    "id": 4,
+    "name": "Carrot",
+    "price": 90.0,
+    "image": "assets/images/Carrot 1.png"
+  },
+  {
+    "id": 5,
+    "name": "Yogurt",
+    "price": 150.0,
+    "image": "assets/images/Yogurt 01.png"
+  },
+  {
+    "id": 6,
+    "name": "Strawberry",
+    "price": 275.0,
+    "image": "assets/images/Strawberry 1.png"
+  },
+  {
+    "id": 7,
+    "name": "Lettuce",
+    "price": 150.0,
+    "image": "assets/images/lettece.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Tomato",
+    "price": 90.0,
+    "image": "assets/images/tomatto 1.png"
+  },
+  {
+    "id": 9,
+    "name": "Potato",
+    "price": 90.0,
+    "image": "assets/images/potato 1.png"
+  },
+  {
+    "id": 10,
+    "name": "Chicken Breast",
+    "price": 1500.0,
+    "image": "assets/images/Chicken Breast.webp"
+  },
+  {
+    "id": 11,
+    "name": "Cucumber",
+    "price":100.0,
+    "image": "assets/images/cucumber 1.png"
+  },
+  {
+    "id": 12,
+    "name": "Pineapple",
+    "price": 180.0,
+    "image": "assets/images/pinapple 1.png"
+  },
+  {
+    "id": 13,
+    "name": "Grapes",
+    "price": 140.0,
+    "image": "assets/images/grapes 1.png"
+  },
+  {
+    "id": 14,
+    "name": "Onion",
+    "price": 115.0,
+    "image": "assets/images/onion 1.png"
+  },
+  {
+    "id": 15,
+    "name": "Lemon",
+    "price": 160.0,
+    "image": "assets/images/Lemon 1.png"
+  }
+]
